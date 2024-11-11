@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  color: var(--black);
+  background-color: #fff;
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
