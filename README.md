@@ -1,4 +1,4 @@
-# Warehouse management system
+# RatatouilleASM - Warehouse management system
 
 -	Descriptions: Implement website applying Agile methodology, Scrum framework and Kanban board.
 -	Responsibilities: Develop website interface in 4 sprints.
