@@ -1,3 +1,9 @@
+# Warehouse management system
+
+-	Descriptions: Implement website applying Agile methodology, Scrum framework and Kanban board.
+-	Responsibilities: Develop website interface in 4 sprints.
+-	Tech stack: NextJS, ReactJS, Material UI.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
